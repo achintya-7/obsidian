@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "7a455039eae2777b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f018488167ac94d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "100050b9af771080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concurrency in Go - Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a336d4ada6bafc82",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d664d77bce671b5b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a315861546a10533",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d5fd488fd5854aec",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5a28565f3819e2da",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e5d667f8dbf8ccf5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a10bbe07889496f0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Concurrency in Go - Part 2.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "de8869a98928c4b2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Concurrency in Go - Part 2.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1eceded16d6aa90b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Concurrency in Go - Part 2.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "100050b9af771080",
+  "lastOpenFiles": [
+    "Concurrency in Go - Part 1.md",
+    "Concurrency in Go - Part 2.md",
+    "Deploy on Linux with Systemctl and Nginx.md",
+    "Cocurrency in Go - Part 1.md",
+    "Adding Repo to Github.md"
+  ]
+}
